@@ -5,83 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb2d1027-300f-48f6-be0d-6ce3a1552d97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJavaBasics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/abstraction/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/abstraction/MyRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/abstraction/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/abstraction/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/abstraction/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/inheritance/Boy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/inheritance/Girl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/inheritance/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/inheritance/TestPeople.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/interfaceDemo/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/interfaceDemo/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/interfaceDemo/MyRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/interfaceDemo/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/interfaceDemo/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/interfaceDemo/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/ArithmeticOperatorsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/ArrayDemoOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/ArrayDemoThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/ArrayDemoTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/AssignmentOperatorsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/AutoPromoteTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/AutoTypeConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/BitwiseOperatorsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/CharAtDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/CompareToExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/ConcatDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/ContainExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/DemoReplaceAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/EncapsulationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/EnhancedForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/ExplicitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/FindString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GuesstheNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/HumanBeing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/InsertElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/IsEmptyExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/JavaBasicsClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/LengthDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/LogicalOperatorsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/LoopDemoOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/LoopDemoTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/MeanSDArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/PalindromeExmaple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/PyramidExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/ReadingStringFromConsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/ReadingStringFromConsole2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/RelationalOperatorsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/ReplaceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/SentinelValuedemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/SplitDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/StringLowerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/StringTrimExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/StringUpperExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/SubstringDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/SubtractionQuizLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/TernaryOperatorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/TestStringComparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/TestStringComparison2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Teststringcomparison3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/UnaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/pa303101/FireMonster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/pa303101/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/pa303101/StoneMonster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/pa303101/WaterMonster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/polymorphism/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/polymorphism/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/polymorphism/MyRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/polymorphism/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/polymorphism/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/polymorphism/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/pa303103/AdultUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/pa303103/KidUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/pa303103/LibraryInterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/pa303103/LibraryUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,69 +38,84 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ArithmeticOperatorsDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayDemoOne.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayDemoThree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayDemoTwo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AssignmentOperatorsDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AutoPromoteTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AutoTypeConversion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BitwiseOperatorsDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CharAtDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CompareToExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConcatDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ContainExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DemoReplaceAll.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EncapsulationExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EnhancedForLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExplicitTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GuesstheNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InsertElements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IsEmptyExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JavaBasicsClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LengthDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LogicalOperatorsDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LoopDemoOne.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LoopDemoTwo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MeanSDArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyRunner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PalindromeExmaple.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PyramidExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReadingStringFromConsole.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReadingStringFromConsole2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RelationalOperatorsDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReplaceDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SentinelValuedemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SplitDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringLowerExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringTrimExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringUpperExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubtractionQuizLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TernaryOperatorDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestPeople.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestStringComparison.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestStringComparison2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Teststringcomparison3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UnaryOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.perscholas.abstraction.MyRunner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.perscholas.interfaceDemo.MyRunner.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/nchang/Desktop/Workplace/CoreJavaBasics&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArithmeticOperatorsDemo.executor": "Run",
+    "Application.ArrayDemoOne.executor": "Run",
+    "Application.ArrayDemoThree.executor": "Run",
+    "Application.ArrayDemoTwo.executor": "Run",
+    "Application.AssignmentOperatorsDemo.executor": "Run",
+    "Application.AutoPromoteTest.executor": "Run",
+    "Application.AutoTypeConversion.executor": "Run",
+    "Application.BitwiseOperatorsDemo.executor": "Run",
+    "Application.CharAtDemo.executor": "Run",
+    "Application.CompareToExample.executor": "Run",
+    "Application.ConcatDemo.executor": "Run",
+    "Application.ContainExample.executor": "Run",
+    "Application.DemoReplaceAll.executor": "Run",
+    "Application.EncapsulationExample.executor": "Run",
+    "Application.EnhancedForLoop.executor": "Run",
+    "Application.ExplicitTest.executor": "Run",
+    "Application.FindString.executor": "Run",
+    "Application.GuesstheNumber.executor": "Run",
+    "Application.InsertElements.executor": "Run",
+    "Application.IsEmptyExample.executor": "Run",
+    "Application.JavaBasicsClass.executor": "Run",
+    "Application.LengthDemo.executor": "Run",
+    "Application.LibraryInterfaceDemo.executor": "Run",
+    "Application.LogicalOperatorsDemo.executor": "Run",
+    "Application.LoopDemoOne.executor": "Run",
+    "Application.LoopDemoTwo.executor": "Run",
+    "Application.MeanSDArray.executor": "Run",
+    "Application.MyRunner.executor": "Run",
+    "Application.PalindromeExmaple.executor": "Run",
+    "Application.PyramidExample.executor": "Run",
+    "Application.ReadingStringFromConsole.executor": "Run",
+    "Application.ReadingStringFromConsole2.executor": "Run",
+    "Application.RelationalOperatorsDemo.executor": "Run",
+    "Application.ReplaceDemo.executor": "Run",
+    "Application.SentinelValuedemo.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.SplitDemo.executor": "Run",
+    "Application.StringLowerExample.executor": "Run",
+    "Application.StringTrimExample.executor": "Run",
+    "Application.StringUpperExample.executor": "Run",
+    "Application.SubtractionQuizLoop.executor": "Run",
+    "Application.TernaryOperatorDemo.executor": "Run",
+    "Application.TestMonster.executor": "Run",
+    "Application.TestPeople.executor": "Run",
+    "Application.TestStringComparison.executor": "Run",
+    "Application.TestStringComparison2.executor": "Run",
+    "Application.Teststringcomparison3.executor": "Run",
+    "Application.UnaryOperator.executor": "Run",
+    "Application.com.perscholas.abstraction.MyRunner.executor": "Run",
+    "Application.com.perscholas.interfaceDemo.MyRunner.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/nchang/Desktop/Workplace/CoreJavaBasics",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.TestMonster">
+}]]></component>
+  <component name="RunManager" selected="Application.LibraryInterfaceDemo">
+    <configuration name="LibraryInterfaceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.pa303103.LibraryInterfaceDemo" />
+      <module name="CoreJavaBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.perscholas.pa303103.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.perscholas.polymorphism.MyRunner" />
       <module name="CoreJavaBasics" />
@@ -192,19 +135,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.perscholas.pa303101.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestPeople" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.inheritance.TestPeople" />
-      <module name="CoreJavaBasics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.perscholas.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LibraryInterfaceDemo" />
         <item itemvalue="Application.TestMonster" />
         <item itemvalue="Application.com.perscholas.interfaceDemo.MyRunner" />
         <item itemvalue="Application.com.perscholas.abstraction.MyRunner" />
         <item itemvalue="Application.MyRunner" />
-        <item itemvalue="Application.TestPeople" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +208,7 @@
       <workItem from="1714158369226" duration="564000" />
       <workItem from="1714414623423" duration="56000" />
       <workItem from="1714414748465" duration="7277000" />
-      <workItem from="1714533573328" duration="356000" />
+      <workItem from="1714533573328" duration="3825000" />
     </task>
     <servers />
   </component>
