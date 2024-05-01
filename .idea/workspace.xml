@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb2d1027-300f-48f6-be0d-6ce3a1552d97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/pa303103/AdultUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/pa303103/KidUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/pa303103/LibraryInterfaceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/pa303103/LibraryUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/sba303practice/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +63,7 @@
     "Application.LogicalOperatorsDemo.executor": "Run",
     "Application.LoopDemoOne.executor": "Run",
     "Application.LoopDemoTwo.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.MeanSDArray.executor": "Run",
     "Application.MyRunner.executor": "Run",
     "Application.PalindromeExmaple.executor": "Run",
@@ -102,7 +100,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LibraryInterfaceDemo">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="LibraryInterfaceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.perscholas.pa303103.LibraryInterfaceDemo" />
       <module name="CoreJavaBasics" />
@@ -116,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.polymorphism.MyRunner" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.sba303practice.Main" />
       <module name="CoreJavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.perscholas.polymorphism.*" />
+          <option name="PATTERN" value="com.perscholas.sba303practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.LibraryInterfaceDemo" />
         <item itemvalue="Application.TestMonster" />
         <item itemvalue="Application.com.perscholas.interfaceDemo.MyRunner" />
         <item itemvalue="Application.com.perscholas.abstraction.MyRunner" />
-        <item itemvalue="Application.MyRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +206,7 @@
       <workItem from="1714158369226" duration="564000" />
       <workItem from="1714414623423" duration="56000" />
       <workItem from="1714414748465" duration="7277000" />
-      <workItem from="1714533573328" duration="3825000" />
+      <workItem from="1714533573328" duration="7223000" />
     </task>
     <servers />
   </component>
