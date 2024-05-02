@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb2d1027-300f-48f6-be0d-6ce3a1552d97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/glab303111/DemoClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/glab303111/GMultipleDatatype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/glab303111/MyRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/glab303112/AccessElementsFromArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/glab303112/CreateArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/glab303112/CreateArrayListFromCollectionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/glab303112/IterateOverArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/glab303112/RemoveElementsFromArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,79 +39,83 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ArithmeticOperatorsDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayDemoOne.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayDemoThree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayDemoTwo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AssignmentOperatorsDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AutoPromoteTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AutoTypeConversion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BitwiseOperatorsDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CharAtDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CompareToExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConcatDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ContainExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DemoReplaceAll.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EncapsulationExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EnhancedForLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExplicitTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GuesstheNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InsertElements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IsEmptyExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JavaBasicsClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LengthDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LibraryInterfaceDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LogicalOperatorsDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LoopDemoOne.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LoopDemoTwo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MeanSDArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyRunner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PalindromeExmaple.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PyramidExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReadingStringFromConsole.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReadingStringFromConsole2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RelationalOperatorsDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReplaceDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SentinelValuedemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SplitDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringLowerExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringTrimExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringUpperExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubtractionQuizLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TernaryOperatorDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestMonster.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestPeople.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestStringComparison.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestStringComparison2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Teststringcomparison3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UnaryOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.perscholas.abstraction.MyRunner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.perscholas.interfaceDemo.MyRunner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.perscholas.test1.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/nchang/Desktop/Workplace/CoreJavaBasics&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AccessElementsFromArrayListExample.executor": "Run",
+    "Application.ArithmeticOperatorsDemo.executor": "Run",
+    "Application.ArrayDemoOne.executor": "Run",
+    "Application.ArrayDemoThree.executor": "Run",
+    "Application.ArrayDemoTwo.executor": "Run",
+    "Application.AssignmentOperatorsDemo.executor": "Run",
+    "Application.AutoPromoteTest.executor": "Run",
+    "Application.AutoTypeConversion.executor": "Run",
+    "Application.BitwiseOperatorsDemo.executor": "Run",
+    "Application.CharAtDemo.executor": "Run",
+    "Application.CompareToExample.executor": "Run",
+    "Application.ConcatDemo.executor": "Run",
+    "Application.ContainExample.executor": "Run",
+    "Application.CreateArrayListExample.executor": "Run",
+    "Application.CreateArrayListFromCollectionExample.executor": "Run",
+    "Application.DemoReplaceAll.executor": "Run",
+    "Application.EncapsulationExample.executor": "Run",
+    "Application.EnhancedForLoop.executor": "Run",
+    "Application.ExplicitTest.executor": "Run",
+    "Application.FindString.executor": "Run",
+    "Application.GuesstheNumber.executor": "Run",
+    "Application.InsertElements.executor": "Run",
+    "Application.IsEmptyExample.executor": "Run",
+    "Application.JavaBasicsClass.executor": "Run",
+    "Application.LengthDemo.executor": "Run",
+    "Application.LibraryInterfaceDemo.executor": "Run",
+    "Application.LogicalOperatorsDemo.executor": "Run",
+    "Application.LoopDemoOne.executor": "Run",
+    "Application.LoopDemoTwo.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MeanSDArray.executor": "Run",
+    "Application.MyRunner.executor": "Run",
+    "Application.PalindromeExmaple.executor": "Run",
+    "Application.PyramidExample.executor": "Run",
+    "Application.ReadingStringFromConsole.executor": "Run",
+    "Application.ReadingStringFromConsole2.executor": "Run",
+    "Application.RelationalOperatorsDemo.executor": "Run",
+    "Application.RemoveElementsFromArrayList.executor": "Run",
+    "Application.ReplaceDemo.executor": "Run",
+    "Application.SentinelValuedemo.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.SplitDemo.executor": "Run",
+    "Application.StringLowerExample.executor": "Run",
+    "Application.StringTrimExample.executor": "Run",
+    "Application.StringUpperExample.executor": "Run",
+    "Application.SubtractionQuizLoop.executor": "Run",
+    "Application.TernaryOperatorDemo.executor": "Run",
+    "Application.TestMonster.executor": "Run",
+    "Application.TestPeople.executor": "Run",
+    "Application.TestStringComparison.executor": "Run",
+    "Application.TestStringComparison2.executor": "Run",
+    "Application.Teststringcomparison3.executor": "Run",
+    "Application.UnaryOperator.executor": "Run",
+    "Application.com.perscholas.abstraction.MyRunner.executor": "Run",
+    "Application.com.perscholas.interfaceDemo.MyRunner.executor": "Run",
+    "Application.com.perscholas.test1.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/nchang/Desktop/Workplace/CoreJavaBasics",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.MyRunner">
-    <configuration name="LibraryInterfaceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.pa303103.LibraryInterfaceDemo" />
+}]]></component>
+  <component name="RunManager" selected="Application.IterateOverArrayList">
+    <configuration name="AccessElementsFromArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.glab303112.AccessElementsFromArrayListExample" />
       <module name="CoreJavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.perscholas.pa303103.*" />
+          <option name="PATTERN" value="com.perscholas.glab303112.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.sba303practice.Main" />
+    <configuration name="CreateArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.glab303112.CreateArrayListExample" />
       <module name="CoreJavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.perscholas.sba303practice.*" />
+          <option name="PATTERN" value="com.perscholas.glab303112.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.glab303111.MyRunner" />
+    <configuration name="CreateArrayListFromCollectionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.glab303112.CreateArrayListFromCollectionExample" />
       <module name="CoreJavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.perscholas.glab303111.*" />
+          <option name="PATTERN" value="com.perscholas.glab303112.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMonster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.pa303101.TestMonster" />
+    <configuration name="IterateOverArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.glab303112.IterateOverArrayList" />
       <module name="CoreJavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.perscholas.pa303101.*" />
+          <option name="PATTERN" value="com.perscholas.glab303112.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.perscholas.test1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.test1.Main" />
+    <configuration name="RemoveElementsFromArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.glab303112.RemoveElementsFromArrayList" />
       <module name="CoreJavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.perscholas.test1.*" />
+          <option name="PATTERN" value="com.perscholas.glab303112.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyRunner" />
-        <item itemvalue="Application.com.perscholas.test1.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.LibraryInterfaceDemo" />
-        <item itemvalue="Application.TestMonster" />
+        <item itemvalue="Application.IterateOverArrayList" />
+        <item itemvalue="Application.RemoveElementsFromArrayList" />
+        <item itemvalue="Application.AccessElementsFromArrayListExample" />
+        <item itemvalue="Application.CreateArrayListFromCollectionExample" />
+        <item itemvalue="Application.CreateArrayListExample" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +219,8 @@
       <workItem from="1714544767628" duration="8000" />
       <workItem from="1714570475646" duration="1529000" />
       <workItem from="1714584717467" duration="11000" />
-      <workItem from="1714607611725" duration="2433000" />
+      <workItem from="1714607611725" duration="5149000" />
+      <workItem from="1714658827182" duration="1286000" />
     </task>
     <servers />
   </component>
