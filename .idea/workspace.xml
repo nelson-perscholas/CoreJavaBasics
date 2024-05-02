@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb2d1027-300f-48f6-be0d-6ce3a1552d97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/glab303112/AccessElementsFromArrayListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/glab303112/CreateArrayListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/glab303112/CreateArrayListFromCollectionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/glab303112/IterateOverArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/glab303112/RemoveElementsFromArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cb2d1027-300f-48f6-be0d-6ce3a1552d97" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +57,7 @@
     "Application.GuesstheNumber.executor": "Run",
     "Application.InsertElements.executor": "Run",
     "Application.IsEmptyExample.executor": "Run",
+    "Application.IterateOverArrayList.executor": "Run",
     "Application.JavaBasicsClass.executor": "Run",
     "Application.LengthDemo.executor": "Run",
     "Application.LibraryInterfaceDemo.executor": "Run",
@@ -109,22 +103,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.IterateOverArrayList">
+  <component name="RunManager" selected="Application.ShowData">
     <configuration name="AccessElementsFromArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.perscholas.glab303112.AccessElementsFromArrayListExample" />
-      <module name="CoreJavaBasics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.perscholas.glab303112.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CreateArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.glab303112.CreateArrayListExample" />
       <module name="CoreJavaBasics" />
       <extension name="coverage">
         <pattern>
@@ -175,13 +156,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ShowData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.glab303113.ShowData" />
+      <module name="CoreJavaBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.perscholas.glab303113.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShowData" />
         <item itemvalue="Application.IterateOverArrayList" />
         <item itemvalue="Application.RemoveElementsFromArrayList" />
         <item itemvalue="Application.AccessElementsFromArrayListExample" />
         <item itemvalue="Application.CreateArrayListFromCollectionExample" />
-        <item itemvalue="Application.CreateArrayListExample" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +214,7 @@
       <workItem from="1714570475646" duration="1529000" />
       <workItem from="1714584717467" duration="11000" />
       <workItem from="1714607611725" duration="5149000" />
-      <workItem from="1714658827182" duration="1286000" />
+      <workItem from="1714658827182" duration="1644000" />
     </task>
     <servers />
   </component>
