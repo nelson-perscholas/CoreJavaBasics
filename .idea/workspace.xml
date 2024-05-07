@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb2d1027-300f-48f6-be0d-6ce3a1552d97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/glab303131/ScanDelimiterdFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/glab303131/course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/glab303132/NioExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +37,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.AccessElementsFromArrayListExample.executor": "Run",
     "Application.ArithmeticOperatorsDemo.executor": "Run",
     "Application.ArrayDemoOne.executor": "Run",
@@ -79,6 +79,7 @@
     "Application.Main.executor": "Run",
     "Application.MeanSDArray.executor": "Run",
     "Application.MyRunner.executor": "Run",
+    "Application.NioExample.executor": "Run",
     "Application.PalindromeExmaple.executor": "Run",
     "Application.PercySteps.executor": "Run",
     "Application.PyramidExample.executor": "Run",
@@ -127,13 +128,39 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MyRunner">
+  <component name="RunManager" selected="Application.NioExampleTwo">
     <configuration name="MyRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.perscholas.glab303131.MyRunner" />
       <module name="CoreJavaBasics" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.perscholas.glab303131.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NioExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.glab303132.NioExample" />
+      <module name="CoreJavaBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.perscholas.glab303132.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NioExampleTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.glab303132.NioExampleTwo" />
+      <module name="CoreJavaBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.perscholas.glab303132.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,39 +188,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPhoneDirectoryWithTreeMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.glab303117.TestPhoneDirectoryWithTreeMap" />
-      <module name="CoreJavaBasics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.perscholas.glab303117.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="maincomparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.glab303116.maincomparator" />
-      <module name="CoreJavaBasics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.perscholas.glab303116.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NioExampleTwo" />
+        <item itemvalue="Application.NioExample" />
         <item itemvalue="Application.MyRunner" />
         <item itemvalue="Application.ScanDelimiterdFile" />
         <item itemvalue="Application.PercySteps" />
-        <item itemvalue="Application.TestPhoneDirectoryWithTreeMap" />
-        <item itemvalue="Application.maincomparator" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +238,7 @@
       <workItem from="1714697414914" duration="1817000" />
       <workItem from="1714763332277" duration="4054000" />
       <workItem from="1715019335510" duration="1671000" />
-      <workItem from="1715091402433" duration="3933000" />
+      <workItem from="1715091402433" duration="7119000" />
     </task>
     <servers />
   </component>
