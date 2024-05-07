@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb2d1027-300f-48f6-be0d-6ce3a1552d97" name="Changes" comment="" />
+    <list default="true" id="cb2d1027-300f-48f6-be0d-6ce3a1552d97" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/glab303131/ScanDelimiterdFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/glab303131/course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +56,12 @@
     "Application.DemoReplaceAll.executor": "Run",
     "Application.EncapsulationExample.executor": "Run",
     "Application.EnhancedForLoop.executor": "Run",
+    "Application.ExampleFour.executor": "Run",
+    "Application.ExampleOne.executor": "Run",
+    "Application.ExampleOneHashMap.executor": "Run",
+    "Application.ExampleThree.executor": "Run",
+    "Application.ExampleTwo.executor": "Run",
+    "Application.ExampletwoHashMap.executor": "Run",
     "Application.ExplicitTest.executor": "Run",
     "Application.FindString.executor": "Run",
     "Application.GuesstheNumber.executor": "Run",
@@ -61,6 +71,8 @@
     "Application.JavaBasicsClass.executor": "Run",
     "Application.LengthDemo.executor": "Run",
     "Application.LibraryInterfaceDemo.executor": "Run",
+    "Application.LinkedListExample.executor": "Run",
+    "Application.LinkedListsortExample.executor": "Run",
     "Application.LogicalOperatorsDemo.executor": "Run",
     "Application.LoopDemoOne.executor": "Run",
     "Application.LoopDemoTwo.executor": "Run",
@@ -68,13 +80,16 @@
     "Application.MeanSDArray.executor": "Run",
     "Application.MyRunner.executor": "Run",
     "Application.PalindromeExmaple.executor": "Run",
+    "Application.PercySteps.executor": "Run",
     "Application.PyramidExample.executor": "Run",
     "Application.ReadingStringFromConsole.executor": "Run",
     "Application.ReadingStringFromConsole2.executor": "Run",
     "Application.RelationalOperatorsDemo.executor": "Run",
     "Application.RemoveElementsFromArrayList.executor": "Run",
     "Application.ReplaceDemo.executor": "Run",
+    "Application.ScanDelimiterdFile.executor": "Run",
     "Application.SentinelValuedemo.executor": "Run",
+    "Application.ShowData.executor": "Run",
     "Application.Solution.executor": "Run",
     "Application.SplitDemo.executor": "Run",
     "Application.StringLowerExample.executor": "Run",
@@ -84,14 +99,23 @@
     "Application.TernaryOperatorDemo.executor": "Run",
     "Application.TestMonster.executor": "Run",
     "Application.TestPeople.executor": "Run",
+    "Application.TestPhoneDirectoryWithTreeMap.executor": "Run",
     "Application.TestStringComparison.executor": "Run",
     "Application.TestStringComparison2.executor": "Run",
     "Application.Teststringcomparison3.executor": "Run",
+    "Application.TreeSetExampleCom.executor": "Run",
+    "Application.TreesetExampleThree.executor": "Run",
+    "Application.TreesetExampleone.executor": "Run",
+    "Application.TreesetExampletwo.executor": "Run",
     "Application.UnaryOperator.executor": "Run",
     "Application.com.perscholas.abstraction.MyRunner.executor": "Run",
     "Application.com.perscholas.interfaceDemo.MyRunner.executor": "Run",
     "Application.com.perscholas.test1.Main.executor": "Run",
+    "Application.exampleTreemapOne.executor": "Run",
+    "Application.exampleTreemapTwo.executor": "Run",
+    "Application.maincomparator.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/nchang/Desktop/Workplace/CoreJavaBasics",
@@ -103,13 +127,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ShowData">
-    <configuration name="AccessElementsFromArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.glab303112.AccessElementsFromArrayListExample" />
+  <component name="RunManager" selected="Application.MyRunner">
+    <configuration name="MyRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.glab303131.MyRunner" />
       <module name="CoreJavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.perscholas.glab303112.*" />
+          <option name="PATTERN" value="com.perscholas.glab303131.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +141,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreateArrayListFromCollectionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.glab303112.CreateArrayListFromCollectionExample" />
+    <configuration name="PercySteps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PercySteps" />
+      <module name="CoreJavaBasics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScanDelimiterdFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.glab303131.ScanDelimiterdFile" />
       <module name="CoreJavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.perscholas.glab303112.*" />
+          <option name="PATTERN" value="com.perscholas.glab303131.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IterateOverArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.glab303112.IterateOverArrayList" />
+    <configuration name="TestPhoneDirectoryWithTreeMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.glab303117.TestPhoneDirectoryWithTreeMap" />
       <module name="CoreJavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.perscholas.glab303112.*" />
+          <option name="PATTERN" value="com.perscholas.glab303117.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,25 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveElementsFromArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.glab303112.RemoveElementsFromArrayList" />
+    <configuration name="maincomparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.glab303116.maincomparator" />
       <module name="CoreJavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.perscholas.glab303112.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShowData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.glab303113.ShowData" />
-      <module name="CoreJavaBasics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.perscholas.glab303113.*" />
+          <option name="PATTERN" value="com.perscholas.glab303116.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ShowData" />
-        <item itemvalue="Application.IterateOverArrayList" />
-        <item itemvalue="Application.RemoveElementsFromArrayList" />
-        <item itemvalue="Application.AccessElementsFromArrayListExample" />
-        <item itemvalue="Application.CreateArrayListFromCollectionExample" />
+        <item itemvalue="Application.MyRunner" />
+        <item itemvalue="Application.ScanDelimiterdFile" />
+        <item itemvalue="Application.PercySteps" />
+        <item itemvalue="Application.TestPhoneDirectoryWithTreeMap" />
+        <item itemvalue="Application.maincomparator" />
       </list>
     </recent_temporary>
   </component>
@@ -214,11 +232,27 @@
       <workItem from="1714570475646" duration="1529000" />
       <workItem from="1714584717467" duration="11000" />
       <workItem from="1714607611725" duration="5149000" />
-      <workItem from="1714658827182" duration="1644000" />
+      <workItem from="1714658827182" duration="4636000" />
+      <workItem from="1714688686588" duration="3333000" />
+      <workItem from="1714697414914" duration="1817000" />
+      <workItem from="1714763332277" duration="4054000" />
+      <workItem from="1715019335510" duration="1671000" />
+      <workItem from="1715091402433" duration="3933000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/perscholas/glab303131/ScanDelimiterdFile.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
